@@ -1,12 +1,13 @@
+```markdown
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZueGgwM3QzMXA5MWE0cHR2dHBsOWM1MmhneGNzaHRpa252N25nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZueGgwM3QzMXA5MWE0cHR2dHBsOWM1MmhneGNzaHRpa252N25nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding">
 
 # 👋 Hi, I'm Atul Kumar
 
-### 🚀 AI & Machine Learning Engineer | Python Developer | NLP Enthusiast
+### AI & Machine Learning Enthusiast | Python Developer | NLP Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Data+Science+Enthusiast;Natural+Language+Processing;Building+Scalable+AI+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Natural+Language+Processing;Building+Intelligent+Applications;Always+Learning+Something+New"/>
 
 <br>
 
@@ -22,10 +23,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="<YOUR_PORTFOLIO_LINK>">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Atulkumar843&style=for-the-badge&color=0e75b6"/>
@@ -34,70 +31,91 @@
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 Final Year B.Tech Student (CSE - AI & ML)
+🎓 Final-year B.Tech student in **Computer Science Engineering (AI & ML)** at **I.T.S Engineering College, Greater Noida**.
 
-🏫 I.T.S Engineering College, Greater Noida
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Analysis, and Natural Language Processing.
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science and NLP.
+🚀 I enjoy building intelligent software solutions that solve real-world problems through Machine Learning.
 
-🚀 I enjoy building intelligent systems that solve real-world problems.
+🌱 **Currently Learning**
 
-🌱 Currently learning
+- Data Structures & Algorithms using Python
+- Front-End Web Development
+- Advanced NLP Techniques
 
-- Deep Learning
-- Large Language Models (LLMs)
-- LangChain
-- Data Structures & Algorithms
-- Advanced Python
-
-💼 Looking for
+💼 **Looking For**
 
 - AI/ML Internship
+- Python Developer Internship
 - Software Development Internship
-- Machine Learning Engineer Roles
-- Python Developer Roles
 
 ---
 
-# 🚀 Tech Stack
+# 🧠 Tech Stack
 
-<p align="center">
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github,vscode,mysql,linux&perline=6"/>
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
+
+---
 
 ## 🤖 AI / ML
 
 - Machine Learning
-- Natural Language Processing
-- Data Cleaning
+- Natural Language Processing (NLP)
 - Data Preprocessing
-- Feature Engineering
+- Scikit-learn
+- Pandas
 - Vectorization
 - Cosine Similarity
-- Model Evaluation
-- Pandas
-- NumPy
-- Scikit-Learn
-- OpenCV
-- Streamlit
+
+---
+
+## 🛠 Tools
+
+- Git
+- GitHub
+- Heroku
+- Web APIs
+
+---
+
+## 🤝 Soft Skills
+
+- Team Collaboration
+- Problem Solving
+- Quick Learning
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎬 Movie Recommendation System
+## 🎬 Movie Recommender System
 
-✔ Content-Based Recommendation System
+A content-based recommendation system that suggests similar movies using **Natural Language Processing** techniques such as **Vectorization** and **Cosine Similarity**.
 
-✔ NLP + Cosine Similarity
+### Features
 
-✔ 5000+ Movies
+- 5000+ Movie Dataset
+- NLP Based Recommendation
+- Fast Recommendations
+- Interactive Web Interface
 
-✔ Streamlit Web App
+**Tech Stack**
+
+Python • Scikit-learn • Pandas • NLP
 
 🔗 Repository
 
@@ -107,27 +125,35 @@ https://github.com/Atulkumar843/movie-recommender-system-tmdb-dataset-main
 
 ## 🏥 Breast Cancer Detection System
 
-✔ Machine Learning Classification
+Developed a Machine Learning model using the Wisconsin Breast Cancer Dataset to classify tumors as **Benign** or **Malignant**.
 
-✔ Logistic Regression
+### Highlights
 
-✔ Random Forest
+- Logistic Regression
+- Random Forest
+- Support Vector Machine
+- 96% Accuracy
 
-✔ Support Vector Machine
+**Tech Stack**
 
-✔ 96% Accuracy
+Python • Scikit-learn • Pandas
 
 ---
 
 ## 📧 Spam SMS & Email Classifier
 
-✔ NLP
+Built an NLP-based spam detection system capable of classifying thousands of text messages with high accuracy.
 
-✔ Text Cleaning
+### Highlights
 
-✔ Machine Learning
+- Text Preprocessing
+- NLP
+- Machine Learning
+- 98% Accuracy
 
-✔ 98% Accuracy
+**Tech Stack**
+
+Python • Machine Learning • NLP
 
 🔗 Repository
 
@@ -135,47 +161,19 @@ https://github.com/Atulkumar843/Spam-Email-SMS-Classifier
 
 ---
 
-## 😀 AI Facial Emotion Detection
+## 📱 QR Code & Text-to-Voice Generator
 
-✔ Computer Vision
+A responsive web application capable of generating QR Codes and converting text into speech using browser Web APIs.
 
-✔ OpenCV
+### Features
 
-✔ CNN
+- QR Code Generation
+- Text-to-Speech
+- Responsive Design
 
-✔ Real-Time Emotion Detection
+**Tech Stack**
 
----
-
-## 🎤 Speech To Text
-
-✔ Python
-
-✔ Speech Recognition
-
-✔ Audio Processing
-
----
-
-## 🔊 Text To Speech
-
-✔ Python
-
-✔ Text Processing
-
-✔ Voice Synthesis
-
----
-
-## 📱 QR Generator
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ QR Code Generation
+HTML5 • CSS3 • JavaScript • Web APIs
 
 🔗 Repository
 
@@ -183,57 +181,49 @@ https://github.com/Atulkumar843/QR-generator
 
 ---
 
+# 🎓 Education
+
+### I.T.S Engineering College, Greater Noida
+
+**Bachelor of Technology**
+
+Computer Science Engineering (AI & ML)
+
+2023 – 2027
+
+---
+
 # 🏆 Certifications
 
-🥇 Artificial Intelligence — IIT Roorkee & Teachnook
+🥇 Artificial Intelligence — Teachnook & IIT Roorkee
 
-🥇 Front End Web Development — Infosys Springboard
+🥇 Front End Web Developer — Infosys Springboard
 
-🥇 Data Structures & Algorithms using Python — Infosys Springboard
+🥇 Data Structures and Algorithms using Python — Infosys Springboard
 
 ---
 
 # 🏅 Achievements
 
-🏆 Smart India Hackathon 2025 (Internal Hackathon)
+🏆 Smart India Hackathon 2025 — Internal Hackathon
 
-🏆 Virtual Vista 3.0 National Level Competition
-
-🚀 Built Multiple AI & ML Projects
-
-📚 Passionate AI Developer
+🏆 Virtual Vista 3.0 — National Level Online Project Competition
 
 ---
 
-# 🌱 Currently Working On
-
-🤖 Artificial Intelligence
-
-🧠 Deep Learning
-
-📊 Data Science
-
-⚡ Streamlit Applications
-
-🧠 LLM Applications
-
-📚 DSA using Python
-
----
-
-# 📈 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atulkumar843&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Atulkumar843&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Atulkumar843&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atulkumar843&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
@@ -243,21 +233,11 @@ https://github.com/Atulkumar843/QR-generator
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atulkumar843&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atulkumar843&theme=github_dark"/>
 
 </p>
 
@@ -273,30 +253,7 @@ https://github.com/Atulkumar843/QR-generator
 
 ---
 
-# 💻 Coding Profiles
-
-Coming Soon...
-
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- CodeChef
-
----
-
-# ⚡ Fun Facts
-
-💡 I love building AI applications.
-
-☕ Coffee + Python = Productivity.
-
-🚀 Learning something new every day.
-
-🧠 Believe in Learning by Building.
-
----
-
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -312,22 +269,17 @@ Coming Soon...
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="<YOUR_PORTFOLIO_LINK>">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## ⭐ Thanks for Visiting My Profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+*"Building intelligent systems through Machine Learning and Artificial Intelligence."*
 
-### 🚀 "Building Intelligent Systems That Make a Difference."
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+If you like my projects, don't forget to ⭐ star the repositories.
 
 </div>
+```
