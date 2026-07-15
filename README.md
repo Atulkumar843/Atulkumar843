@@ -130,12 +130,12 @@ B.Tech in Computer Science Engineering (AI & ML) — 2023 to 2027
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Atulkumar843&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atulkumar843&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Atulkumar843&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://streak-stats.demolab.com/?user=Atulkumar843&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulkumar843&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulkumar843&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
