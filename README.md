@@ -130,22 +130,17 @@ B.Tech in Computer Science Engineering (AI & ML) — 2023 to 2027
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Atulkumar843&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<img src="https://streak-stats.demolab.com/?user=Atulkumar843&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atulkumar843&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Atulkumar843&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulkumar843&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atulkumar843&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atulkumar843&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atulkumar843&theme=tokyo-night&hide_border=true"/>
 </p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 ---
 
 <div align="center">
